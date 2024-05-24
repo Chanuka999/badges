@@ -1,1 +1,1 @@
-console.log("Hello word")
+const pair = "extradinaire";
